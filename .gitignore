@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 .condarc
 TP-6379_toxicokinetic_analysis.ipynb
+eurofins_scraper.ipynb
+ms_word_to_pdf.py
